@@ -2,7 +2,7 @@
 ---
 
 ### Hеllo I'm interesting in programming and hope that my hobbies will grow into a profession through work and training!
----
+< br>
 ## Lanquages and tools
 
 ![C++](https://img.shields.io/badge/-C%23-696969?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
@@ -12,7 +12,7 @@
 ![.net](https://img.shields.io/badge/-.NetFramework-696969?style=for-the-badge&logo=.net&logoColor=00FF7F)
 ![git](https://img.shields.io/badge/-.NetFramework-696969?style=for-the-badge&logo=git&logoColor=FFA500)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-696969?style=for-the-badge&logo=bootstrap&logoColor=00FF7F)
----
+
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-B0E0E6?style=for-the-badge&logo=telegram&logoColor=FFA500)](https://t.me/@Tatyanamoers)
 
