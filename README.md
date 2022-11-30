@@ -19,7 +19,7 @@
 ![Java](https://img.shields.io/badge/-Java-696969?style=for-the-badge&logo=java&logoColor=00FF7F)
 ![SQL](https://img.shields.io/badge/-SQL-696969?style=for-the-badge&logo=mysql&logoColor=FFFF00)
 ![.net](https://img.shields.io/badge/-.NetFramework-696969?style=for-the-badge&logo=.net&logoColor=00FF7F)
-![git](https://img.shields.io/badge/-.NetFramework-696969?style=for-the-badge&logo=git&logoColor=FFA500)
+![git](https://img.shields.io/badge/-Github-696969?style=for-the-badge&logo=git&logoColor=FFA500)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-696969?style=for-the-badge&logo=bootstrap&logoColor=00FF7F)
 
 ## Follow me
