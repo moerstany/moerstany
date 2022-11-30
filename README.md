@@ -3,7 +3,7 @@
 ###Lanquages and tools
 ![C++](https://img.shields.io/badge/-C%23-696969?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-696969?style=for-the-badge&logo=JavaScript&logoColor=FFFF00)
-![Java](https://img.shields.io/badge/-Java-696969?style=for-the-badge&logo=Java&logoColor=00FF7F)
-
+![Java](https://img.shields.io/badge/-Java-696969?style=for-the-badge&logo=java&logoColor=00FF7F)
+![SQL](https://img.shields.io/badge/-SQL-696969?style=for-the-badge&logo=mysql&logoColor=FFFF00)
 
 Follow me
