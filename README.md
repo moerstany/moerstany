@@ -9,8 +9,7 @@
 ![git](https://img.shields.io/badge/-.NetFramework-696969?style=for-the-badge&logo=git&logoColor=FFA500)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-696969?style=for-the-badge&logo=bootstrap&logoColor=00FF7F)
 Follow me
-![Telegram](https://img.shields.io/badge/-Telegram-B0E0E6?style=for-the-badge&logo=telegram&logoColor=FFA500)
+[![Telegram](https://img.shields.io/badge/-Telegram-B0E0E6?style=for-the-badge&logo=telegram&logoColor=FFA500)](https://t.me/@Tatyanamoers)
 
-![WhatsApp](https://img.shields.io/badge/-WhatsApp-B0E0E6?style=for-the-badge&logo=whatsapp&logoColor=00FF7F)
 
 ![email](https://img.shields.io/badge/-email-B0E0E6?style=for-the-badge&logo=mail&logoColor=4682B4)
