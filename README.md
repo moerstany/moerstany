@@ -9,3 +9,4 @@
 ![git](https://img.shields.io/badge/-.NetFramework-696969?style=for-the-badge&logo=git&logoColor=FFA500)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-696969?style=for-the-badge&logo=bootstrap&logoColor=00FF7F)
 Follow me
+![Telegramm](https://img.shields.io/badge/-Telegramm-20B2AA?style=for-the-badge&logo=telegramm&logoColor=00FF7F)
