@@ -11,5 +11,8 @@
 Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-B0E0E6?style=for-the-badge&logo=telegram&logoColor=FFA500)](https://t.me/@Tatyanamoers)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=moerstany@gmail.com&tf=cm)
 
-![email](https://img.shields.io/badge/-email-B0E0E6?style=for-the-badge&logo=mail&logoColor=4682B4)
+[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+79137567540&text=Hi%20Ms.%20Tatyana) 
+
+
