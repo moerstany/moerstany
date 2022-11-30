@@ -2,13 +2,13 @@
 ---
 
 ### Hеllo I'm interesting in programming and hope that my hobbies will grow into a profession through work and training!
+## Education   
+####Higher Education
+1998-2003
+Siberian Academy of Finance and Bankin
+ (Аcconting analysis audit)
 
-## Educations 
-book Higher 
-
-calendar  - 
-
-round_pushpin STEP IT Baku (Software 
+round_pushpin STEP IT 
 
 calendar 2020 - 2022
 
