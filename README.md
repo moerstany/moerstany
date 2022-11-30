@@ -3,16 +3,14 @@
 
 ### Hеllo I'm interesting in programming and hope that my hobbies will grow into a profession through work and training!
 ## Education   
-####Higher Education
-1998-2003
-Siberian Academy of Finance and Bankin
- (Аcconting analysis audit)
-
-round_pushpin STEP IT 
-
-calendar 2020 - 2022
-
-round_pushpin TOP Academy Moscow (Software development)
+#### Higher Education
+#### 1998-2003
+#### Siberian Academy of Finance and Bankin
+ #### (Аcconting analysis audit)
+ 
+ #### 2020 - 2022
+#### TOP Academy Moscow (Software development) 
+---
 
 ## Lanquages and tools
 
