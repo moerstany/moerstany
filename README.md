@@ -3,6 +3,17 @@
 
 ### Hеllo I'm interesting in programming and hope that my hobbies will grow into a profession through work and training!
 
+## Educations 
+book Higher 
+
+calendar  - 
+
+round_pushpin STEP IT Baku (Software 
+
+calendar 2020 - 2022
+
+round_pushpin TOP Academy Moscow (Software development)
+
 ## Lanquages and tools
 
 ![C++](https://img.shields.io/badge/-C%23-696969?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
