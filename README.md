@@ -7,8 +7,8 @@
 #### 1998-2003
 #### Siberian Academy of Finance and Bankin
  #### (Аcconting analysis audit)
- 
- #### 2020 - 2022
+ ---
+ #### 2020 - 2023
 #### TOP Academy Moscow (Software development) 
 ---
 
