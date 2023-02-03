@@ -1,7 +1,7 @@
 [![Header](https://github.com/moerstany/moerstany/blob/main/20221130_155952.png)](https://novosibirsk.hh.ru/applicant/resumes)
 ---
 
-### Hеllo I'm interesting in programming and hope that my hobbies will grow into a profession through work and training!
+### Hеllo I'm interesting in programming and hope that junior will grow into senior through work and training!
 ## Education   
 #### Higher Education
 #### 1998-2003
