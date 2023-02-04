@@ -1,4 +1,4 @@
-[![Header](https://github.com/moerstany/moerstany/blob/main/image_1.png)](https://novosibirsk.hh.ru/applicant/resumes)
+[![Header](https://github.com/moerstany/moerstany/blob/main/image_2.png)](https://novosibirsk.hh.ru/applicant/resumes)
 ---
 
 ### Hеllo I'm interesting in programming and hope that junior will grow into senior through work and training!
